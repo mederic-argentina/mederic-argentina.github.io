@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 ---
-
+<link rel="stylesheet" href="/assets/css/style.css">
 # À propos
 
 Je travaille sur la mécanique de la nage ondulatoire et la biomimétique des fluides.  
