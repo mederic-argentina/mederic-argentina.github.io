@@ -95,7 +95,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **J. R. Soc. Interface**, 13:20150930 (2016).  
    [https://doi.org/10.1098/rsif.2015.0930](https://doi.org/10.1098/rsif.2015.0930)
 
-   1. **Florence Haudin, Xavier Noblin, Yann Bouret, Médéric Argentina, Christophe Raufaste**  
+1. **Florence Haudin, Xavier Noblin, Yann Bouret, Médéric Argentina, Christophe Raufaste**  
    *Bubble dynamics inside an outgassing hydrogel confined in a Hele-Shaw cell.*  
    **Phys. Rev. E**, 94:023109 (2016).  
    [https://doi.org/10.1103/PhysRevE.94.023109](https://doi.org/10.1103/PhysRevE.94.023109)
@@ -143,7 +143,6 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **Carlos Llorens, Médéric Argentina, Yann Bouret**  
    *Étude du piège de l’utriculaire: modèle élastique et comportements dynamiques associés.*  
    **Rencontre du Non Linéaire**, Paris (2013).  
-   *(Proceedings, no DOI)*
 
 1. **Médéric Argentina, Germain Iooss**  
    *Quasipatterns in a parametrically forced horizontal fluid film.*  
@@ -203,9 +202,8 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **Nicolas O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
    *Ondes non linéaires dans l’expérience de Faraday.*  
    **Rencontre du Non Linéaire**, Paris (2009).  
-   *(Proceedings, no DOI)*
 
-   1. **S. Lerouge, M. A. Fardin, Médéric Argentina, G. Grégoire, O. Cardoso**  
+1. **S. Lerouge, M. A. Fardin, Médéric Argentina, G. Grégoire, O. Cardoso**  
    *Interface dynamics in shear-banding flow of giant micelles.*  
    **Soft Matter**, 4:1808–1819 (2008).  
    [https://doi.org/10.1039/b800183b](https://doi.org/10.1039/b800183b)
@@ -237,9 +235,8 @@ Each entry includes a link to the official article (DOI or journal page) when av
 
 1. **Médéric Argentina, E. Cerda**  
    *Falkner-Skan approximation for gradually variable flows.*  
-   In *Nonlinear Phenomena and Complex Systems*, 87–100 (2004).  
-   *(Book chapter, no DOI)*
-
+   In *Nonlinear Phenomena and Complex Systems*, 87–100 (2004).
+   
 1. **Médéric Argentina, O. Rudzick, M. G. Velarde**  
    *On the back-firing instability.*  
    **Chaos**, 14:777–785 (2004).  
