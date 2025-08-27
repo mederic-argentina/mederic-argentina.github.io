@@ -4,6 +4,7 @@
   <a href="/webpage/publications.html">📚 Publications</a>
   <a href="/webpage/contact.html">✉️ Contact</a>
 </nav>
+<link rel="stylesheet" href="/assets/css/style.css">
 
 ---
 layout: default
