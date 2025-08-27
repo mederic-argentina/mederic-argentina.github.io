@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "À propos"
+title: "Index"
 ---
 
-# À propos
+# Index
 
 Je suis **Médéric Argentina**, professeur de physique à l’Université Côte d’Azur.  
 Directeur de l’EUR SPECTRUM.  
