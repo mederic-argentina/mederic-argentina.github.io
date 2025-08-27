@@ -1,15 +1,11 @@
 ---
 layout: default
-title: "Accueil"
+title: "À propos"
 ---
 
-# Médéric Argentina
+# À propos
 
-Bienvenue sur mon site GitHub Pages ✨  
+Je suis **Médéric Argentina**, professeur de physique à l’Université Côte d’Azur.  
+Directeur de l’EUR SPECTRUM.  
 
----
-
-## Dernières nouvelles
-- 🚀 Site en ligne
-- 📄 Ajout de la page “À propos”
-- 📚 Section publications bientôt disponible
+Ici je partagerai mes projets de recherche et mes activités pédagogiques.
