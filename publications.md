@@ -38,7 +38,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **C. Karamaoun, B. Mauroy, M. Argentina**  
    *An original computational framework offers new perspectives for exhaled nitric oxide.*  
    **European Respiratory Journal**, 60(suppl 66) (2022).  
-   *(DOI to be added)*
+  [https://publications.ersnet.org/content/erj/60/suppl66/513]
 
 1. **Denis Doyen, Mallorie Poët, Gisèle Jarretou, Didier F. Pisani, Michel Tauc, Marc Cougnon, Médéric Argentina, Yann Bouret, Laurent Counillon**  
    *Intracellular pH control by membrane transport in mammalian cells: insights into the selective advantages of functional redundancy.*  
