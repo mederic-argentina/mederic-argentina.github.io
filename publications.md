@@ -135,7 +135,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **PLOS ONE**, 9:e85449 (2014).  
    [https://doi.org/10.1371/journal.pone.0085449](https://doi.org/10.1371/journal.pone.0085449)
 
-1. **Nelson O. Rojas, Médéric Argentina, M. Tirapegui**  
+1. **Nicolas O. Rojas, Médéric Argentina, M. Tirapegui**  
    *A progressive correction to the circular hydraulic jump scaling.*  
    **Physics of Fluids**, 25:042105 (2013).  
    [https://doi.org/10.1063/1.4802049](https://doi.org/10.1063/1.4802049)
@@ -150,7 +150,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **Physica D**, 241(16):1306–1321 (2012).  
    [https://doi.org/10.1016/j.physd.2012.04.011](https://doi.org/10.1016/j.physd.2012.04.011)
 
-1. **Xavier Noblin, Nelson O. Rojas, James Westbrook, Carlos Llorens, Médéric Argentina, Jacques Dumais**  
+1. **Xavier Noblin, Nicolas O. Rojas, James Westbrook, Carlos Llorens, Médéric Argentina, Jacques Dumais**  
    *The fern sporangium: A unique catapult.*  
    **Science**, 335:1322 (2012).  
    [https://doi.org/10.1126/science.1215985](https://doi.org/10.1126/science.1215985)
@@ -160,7 +160,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **Journal of the Royal Society Interface**, 9:3129–3139 (2012).  
    [https://doi.org/10.1098/rsif.2012.0512](https://doi.org/10.1098/rsif.2012.0512)
 
-1. **Nelson O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
+1. **Nicolas O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
    *Faraday patterns in lubricated thin films.*  
    **European Physical Journal D**, 62(1):25–31 (2011).  
    [https://doi.org/10.1140/epjd/e2010-10328-3](https://doi.org/10.1140/epjd/e2010-10328-3)
@@ -175,7 +175,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **Phys. Rev. E**, 82:016203 (2010).  
    [https://doi.org/10.1103/PhysRevE.82.016203](https://doi.org/10.1103/PhysRevE.82.016203)
 
-1. **Nelson O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
+1. **Nicolas O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
    *Inertial lubrication theory.*  
    **Phys. Rev. Lett.**, 104:187801 (2010).  
    [https://doi.org/10.1103/PhysRevLett.104.187801](https://doi.org/10.1103/PhysRevLett.104.187801)
@@ -185,7 +185,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **Phys. Rev. E**, 81:010901 (2010).  
    [https://doi.org/10.1103/PhysRevE.81.010901](https://doi.org/10.1103/PhysRevE.81.010901)
 
-1. **Nelson O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
+1. **Nicolas O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
    *Nonlinear Faraday waves at low Reynolds numbers.*  
    **Journal of Molecular Liquids**, 147(3):166–169 (2009).  
    [https://doi.org/10.1016/j.molliq.2009.05.014](https://doi.org/10.1016/j.molliq.2009.05.014)
@@ -195,13 +195,124 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **Phys. Rev. Lett.**, 103:028302 (2009).  
    [https://doi.org/10.1103/PhysRevLett.103.028302](https://doi.org/10.1103/PhysRevLett.103.028302)
 
-1. **Xavier Noblin, James Westbrook, Nelson O. Rojas, Médéric Argentina, Jacques Dumais**  
+1. **Xavier Noblin, James Westbrook, Nicolas O. Rojas, Médéric Argentina, Jacques Dumais**  
    *Biomechanics of fern spores discharge: the sporangium opening.*  
    **Proc. 6th Plant Biomechanics Conference**, Cayenne (2009).  
-   *(Proceedings, no DOI)*
 
-1. **Nelson O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
+
+1. **Nicolas O. Rojas, Médéric Argentina, Enrique Cerda, Enrique Tirapegui**  
    *Ondes non linéaires dans l’expérience de Faraday.*  
    **Rencontre du Non Linéaire**, Paris (2009).  
    *(Proceedings, no DOI)*
+
+   1. **S. Lerouge, M. A. Fardin, Médéric Argentina, G. Grégoire, O. Cardoso**  
+   *Interface dynamics in shear-banding flow of giant micelles.*  
+   **Soft Matter**, 4:1808–1819 (2008).  
+   [https://doi.org/10.1039/b800183b](https://doi.org/10.1039/b800183b)
+
+1. **Médéric Argentina, J. Skotheim, L. Mahadevan**  
+   *Settling and swimming of flexible fluid-lubricated foils.*  
+   **Phys. Rev. Lett.**, 99:224503 (2007).  
+   [https://doi.org/10.1103/PhysRevLett.99.224503](https://doi.org/10.1103/PhysRevLett.99.224503)
+
+1. **Médéric Argentina, P. Coullet, J.-M. Gilli, M. Monticelli, G. Rousseaux**  
+   *Chaos in Robert Hooke’s inverted cone.*  
+   **Proc. Royal Society A**, 463:1259–1269 (2007).  
+   [https://doi.org/10.1098/rspa.2006.1781](https://doi.org/10.1098/rspa.2006.1781)
+
+1. **S. Lerouge, Médéric Argentina, J. Decruppe**  
+   *Interface instability in shear-banding flow.*  
+   **Phys. Rev. Lett.**, 96:088301 (2006).  
+   [https://doi.org/10.1103/PhysRevLett.96.088301](https://doi.org/10.1103/PhysRevLett.96.088301)
+
+1. **Médéric Argentina, M. Clerc, R. Rojas, E. Tirapegui**  
+   *Coarsening dynamics of the one-dimensional Cahn–Hilliard model.*  
+   **Phys. Rev. E**, 71:046210 (2005).  
+   [https://doi.org/10.1103/PhysRevE.71.046210](https://doi.org/10.1103/PhysRevE.71.046210)
+
+1. **Médéric Argentina, L. Mahadevan**  
+   *Fluid-flow-induced flutter of a flag.*  
+   **PNAS**, 102:1829–1834 (2005).  
+   [https://doi.org/10.1073/pnas.0408383102](https://doi.org/10.1073/pnas.0408383102)
+
+1. **Médéric Argentina, E. Cerda**  
+   *Falkner-Skan approximation for gradually variable flows.*  
+   In *Nonlinear Phenomena and Complex Systems*, 87–100 (2004).  
+   *(Book chapter, no DOI)*
+
+1. **Médéric Argentina, O. Rudzick, M. G. Velarde**  
+   *On the back-firing instability.*  
+   **Chaos**, 14:777–785 (2004).  
+   [https://doi.org/10.1063/1.1774626](https://doi.org/10.1063/1.1774626)
+
+1. **R. Soto, Médéric Argentina, M. G. Clerc**  
+   *Van der Waals-like transition in fluidized granular matter.*  
+   In *Lecture Notes in Physics*, vol. 624, pp. 1–16 (2003).  
+   [https://doi.org/10.1007/978-3-540-45234-8_1](https://doi.org/10.1007/978-3-540-45234-8_1)
+
+1. **O. Descalzi, Médéric Argentina, E. Tirapegui**  
+   *Saddle-node bifurcation: Appearance mechanism of pulses in the subcritical complex Ginzburg–Landau equation.*  
+   **Phys. Rev. E**, 67:015601 (2003).  
+   [https://doi.org/10.1103/PhysRevE.67.015601](https://doi.org/10.1103/PhysRevE.67.015601)
+
+1. **Médéric Argentina, O. Descalzi, E. Tirapegui**  
+   *Periodic nucleation solutions of the real Ginzburg–Landau equation.*  
+   **Int. J. Bifurcation and Chaos**, 12(10):2219–2228 (2002).  
+   [https://doi.org/10.1142/S021812740200573X](https://doi.org/10.1142/S021812740200573X)
+
+1. **O. Descalzi, Médéric Argentina, E. Tirapegui**  
+   *Stationary localized solution in the subcritical complex Ginzburg–Landau equation.*  
+   **Int. J. Bifurcation and Chaos**, 12(11):2459–2465 (2002).  
+   [https://doi.org/10.1142/S0218127402005960](https://doi.org/10.1142/S0218127402005960)
+
+1. **Médéric Argentina, M. Clerc, R. Soto**  
+   *Van der Waals-like transition in fluidized granular matter.*  
+   **Phys. Rev. Lett.**, 89:044301 (2002).  
+   [https://doi.org/10.1103/PhysRevLett.89.044301](https://doi.org/10.1103/PhysRevLett.89.044301)
+
+1. **Médéric Argentina, P. Coullet, E. Risler**  
+   *Self-parametric instability in spatially extended systems.*  
+   **Phys. Rev. Lett.**, 86:807–810 (2001).  
+   [https://doi.org/10.1103/PhysRevLett.86.807](https://doi.org/10.1103/PhysRevLett.86.807)
+
+1. **Médéric Argentina, A. Giaquinta, M. G. Velarde**  
+   *A simple generalized excitability model mimicking salient features of neuron dynamics.*  
+   **Journal of Statistical Physics**, 101:1–14 (2000).  
+   [https://doi.org/10.1023/A:1026401819366](https://doi.org/10.1023/A:1026401819366)
+
+1. **Médéric Argentina, P. Coullet, V. Krinsky**  
+   *Head-on collisions of waves in an excitable FitzHugh–Nagumo system.*  
+   **Journal of Theoretical Biology**, 205:47–52 (2000).  
+   [https://doi.org/10.1006/jtbi.2000.2044](https://doi.org/10.1006/jtbi.2000.2044)
+
+1. **Médéric Argentina, P. Coullet**  
+   *Andronov bifurcation and sea-shell patterns.*  
+   In *Pattern Formation in Biology, Vision and Dynamics*, pp. 1–13 (2000).  
+
+
+1. **Médéric Argentina, P. Coullet**  
+   *Nucléation chaotique à partir de bords.*  
+   In *Rencontre du Non Linéaire*, Paris (1999).  
+
+
+1. **Médéric Argentina, P. Coullet**  
+   *A generic mechanism for spatiotemporal intermittency.*  
+   **Physica A**, 257:45–60 (1998).  
+   [https://doi.org/10.1016/S0378-4371(98)00213-1](https://doi.org/10.1016/S0378-4371(98)00213-1)
+
+1. **Médéric Argentina, P. Coullet**  
+   *Modéliser la pigmentation des coquillages.*  
+   **La Recherche**, 305:1–11 (1998).  
+   *(Magazine article, no DOI)*
+
+1. **Médéric Argentina, P. Coullet, L. Mahadevan**  
+   *Colliding waves in a model excitable medium: preservation, annihilation, and bifurcation.*  
+   **Phys. Rev. Lett.**, 79:2803–2806 (1997).  
+   [https://doi.org/10.1103/PhysRevLett.79.2803](https://doi.org/10.1103/PhysRevLett.79.2803)
+
+1. **Médéric Argentina, P. Coullet**  
+   *Chaotic nucleation of metastable domains.*  
+   **Phys. Rev. E**, 56:R2359–R2362 (1997).  
+   [https://doi.org/10.1103/PhysRevE.56.R2359](https://doi.org/10.1103/PhysRevE.56.R2359)
+
 
