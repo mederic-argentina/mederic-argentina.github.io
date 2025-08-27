@@ -2,20 +2,26 @@
 title: "Accueil"
 ---
 
-
 <link rel="stylesheet" href="/assets/css/style.css">
 
-# Bonjour 👋
+<nav>
+  <a href="/">🏠 Accueil</a>
+  <a href="/about.html">👤 À propos</a>
+  <a href="/publications.html">📚 Publications</a>
+  <a href="/contact.html">✉️ Contact</a>
+</nav>
 
-Je suis **Médéric Argentina**, enseignant-chercheur et directeur de l’école universitaire de recherche SPECTRUM.  
-Ce site est en construction et servira à partager :
+<main>
 
-- Mes projets de recherche
-- Mes publications
-- Des informations pédagogiques pour mes étudiants
+# Médéric Argentina
+
+Bienvenue sur mon site GitHub Pages ✨  
 
 ---
 
 ## Dernières nouvelles
-- ✨ Mise en ligne du site GitHub Pages.
-- 📄 Ajout des premiers contenus en Markdown.
+- 🚀 Site en ligne avec GitHub Pages
+- 📄 Ajout de la page “À propos”
+- 📚 Section publications bientôt disponible
+
+</main>
