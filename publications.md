@@ -12,7 +12,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **Li Fu, Sardor Israilov, Jesús Sánchez-Rodríguez, Christophe Brouzet, Guillaume Allibert, Christophe Raufaste, Médéric Argentina**
     *Optimum control strategies for maximum thrust production in underwater undulatory swimming*
    **Phys. Rev. Fluids**, 10:(4) (2025).
-   [https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101]
+   [https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101
 
 1. **Christophe Brouzet, Christophe Raufaste, Médéric Argentina**
    *Undulatory underwater swimming: Linking vortex dynamics, thrust, and wake structure with a biorobotic fish*
@@ -33,10 +33,10 @@ Each entry includes a link to the official article (DOI or journal page) when av
    **PLOS ONE**, 18(2):e0280071 (2023).  
    [https://doi.org/10.1371/journal.pone.0280071](https://doi.org/10.1371/journal.pone.0280071)
 
-1. **Tobias Lappan, Dominic Herting, Muhammad Ziauddin, Julian Stenzel, Natalia Shevchenko, Sven Eckert, Kerstin Eckert, Sascha Heitkam**  
-   *X-ray particle tracking velocimetry in an overflowing foam.*  
-   **Applied Sciences**, 13(3):1765 (2023).  
-   *(DOI to be added)*
+1. **Florian Schott, Benjamin Dollet, Stéphane Santucci, Cyrille Claudet, Médéric Argentina, Christophe Raufaste, Rajmund Mokso**  
+   *Three-dimensional liquid foam flow through a hopper resolved by fast X-ray microtomography.*  
+   **Royal Society of Chemistry**, 19(7):1300 (2023).  
+   [https://pubs.rsc.org/en/content/articlehtml/2023/sm/d2sm01299e](https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01299e)
 
 1. **Christophe D’Angelo, Laurence Viennot, Médéric Argentina, Franck Celestini, Christophe Raufaste**  
    *Redistribution of translational kinetic energy: the surprises of bounces.*  
