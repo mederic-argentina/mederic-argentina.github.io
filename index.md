@@ -6,7 +6,7 @@ title: "Accueil"
 
 <nav>
   <a href="/">🏠 Accueil</a>
-  <a href="/about.html">👤 À propos</a>
+  <a href="./about.html">👤 À propos</a>
   <a href="/publications.html">📚 Publications</a>
   <a href="/contact.html">✉️ Contact</a>
 </nav>
