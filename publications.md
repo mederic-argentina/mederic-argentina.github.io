@@ -33,7 +33,7 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **Christophe D’Angelo, Laurence Viennot, Médéric Argentina, Franck Celestini, Christophe Raufaste**  
    *Redistribution of translational kinetic energy: the surprises of bounces.*  
    **European Journal of Physics**, 43(6):065702 (2022).  
-   *(DOI to be added)*
+   [https://iopscience.iop.org/article/10.1088/1361-6404/ac852e/meta]
 
 1. **C. Karamaoun, B. Mauroy, M. Argentina**  
    *An original computational framework offers new perspectives for exhaled nitric oxide.*  
