@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 
-# Publications
+# Publications 
 
 Below is a list of my scientific publications (reverse chronological order).
 
