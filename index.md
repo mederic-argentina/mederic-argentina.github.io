@@ -1,10 +1,4 @@
-<nav>
-  <a href="/webpage/index.html">🏠 Accueil</a>
-  <a href="/webpage/about.html">👤 À propos</a>
-  <a href="/webpage/publications.html">📚 Publications</a>
-  <a href="/webpage/contact.html">✉️ Contact</a>
-</nav>
-<link rel="stylesheet" href="/assets/css/style.css">
+
 
 ---
 layout: default
