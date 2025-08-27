@@ -12,7 +12,12 @@ Each entry includes a link to the official article (DOI or journal page) when av
 1. **Li Fu, Sardor Israilov, Jesús Sánchez-Rodríguez, Christophe Brouzet, Guillaume Allibert, Christophe Raufaste, Médéric Argentina**
     *Optimum control strategies for maximum thrust production in underwater undulatory swimming*
    **Phys. Rev. Fluids**, 10:(4) (2025).
-   [https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101]  
+   [https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101]
+
+1. **Christophe Brouzet, Christophe Raufaste, Médéric Argentina**
+   *Undulatory underwater swimming: Linking vortex dynamics, thrust, and wake structure with a biorobotic fish*
+   J. Fluid Mechanics (2025).
+   
 1. **Cyril Karamaoun, Haribalan Kumar, Médéric Argentina, Didier Clamond, Benjamin Mauroy**  
    *Curvature-driven transport of thin Bingham fluid layers in airway bifurcations.*  
    **Phys. Rev. Fluids**, 9:L081101 (2024).  
