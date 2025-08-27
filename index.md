@@ -1,8 +1,8 @@
 <nav>
   <a href="/webpage/index.html">🏠 Accueil</a>
-  <a href="/about.html">👤 À propos</a>
-  <a href="/publications.html">📚 Publications</a>
-  <a href="/contact.html">✉️ Contact</a>
+  <a href="/webpage/about.html">👤 À propos</a>
+  <a href="/webpage/publications.html">📚 Publications</a>
+  <a href="/webpage/contact.html">✉️ Contact</a>
 </nav>
 
 ---
