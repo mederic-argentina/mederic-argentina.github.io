@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 ---
-
+# Médéric Argentina
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <nav>
@@ -13,7 +13,7 @@ title: "Accueil"
 
 <main>
 
-# Médéric Argentina
+
 
 Bienvenue sur mon site GitHub Pages ✨  
 
