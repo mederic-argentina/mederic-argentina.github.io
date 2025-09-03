@@ -71,11 +71,11 @@ title: "Research"
     <b>Title:</b> Redistribution of translational kinetic energy: the surprises of bounces<br/>
     <b>Authors:</b> C. D’Angelo, L. Viennot, M. Argentina, F. Celestini, C. Raufaste<br/>
     <b>Reference:</b> Eur. J. Phys., 43(6):065702 (2022)<br/>
-    <b>Link:</b> (to be added)<br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Link:</b> <a href="https://iopscience.iop.org/article/10.1088/1361-6404/ac852e"></a><br/><br/>
+    <b>Abstract:</b> The topic of collisions is introduced in university education to address the laws of conservation of momentum and energy. In particular, students are asked to classify collisions as either elastic or inelastic. They are often left with the idea that ‘macroscopic energy’ has been transformed into ‘microscopic energy’ in the case of an inelastic collision, but their understanding of the processes of redistribution of kinetic energy to other degrees of freedom, often called ‘dissipation’, is mostly very poor. The aim of this article is to see how to facilitate the understanding of these processes among university students. Firstly, the results of a questionnaire with 27 university students show that they consider mass and material as the most important determinants of the coefficient of restitution of the bounce of a ball on a solid and rigid support, while the notion of internal structure, which is however essential, is not considered. Second, a simple model contextualizes the idea of a temporal sequence of successive events in the rebound of inhomogeneous projectiles. Finally, recent results on bilayered projectiles are exploited to emphasize the non-trivial influence of the structure of a body on the restitution of its initial translational kinetic energy after rebound on a support. These different elements contribute to conceive possible teaching objectives, to propose simple experiments and to address the conditions for progress in this field
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/bounce.png" width="300"/>
   </div>
 </div>
 
