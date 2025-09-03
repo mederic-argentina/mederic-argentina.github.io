@@ -83,11 +83,11 @@ title: "Research"
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
-    <b>Title:</b> Intracellular pH is a vital parameter that is maintained close to neutrality in all mammalian cells and tissues and acidic in most intracellular compartments. After presenting the main techniques used for intracellular an vesicular pH measurements we will briefly recall the main molecular mechanisms that affect and regulate intracellular pH. Following this we will discuss the large functional redundancy found in the transporters of H+ or acid-base equivalents. For this purpose, we will use mathematical modeling to simulate cellular response to persistent and/or transient acidification, in the presence of different transporters, single or in combination. We will also test the presence or absence of intracellular buffering. This latter section will highlight how modeling can yield fundamental insight into deep biological questions such as the utility of functional redundancy in natural selection.<br/>
+    <b>Title:</b> Intracellular pH Control by Membrane Transport in Mammalian Cells. Insights Into the Selective Advantages of Functional Redundancy<br/>
     <b>Authors:</b> D. Doyen, M. Poët, G. Jarretou, D. F. Pisani, M. Tauc, M. Cougnon, M. Argentina, Y. Bouret, L. Counillon<br/>
     <b>Reference:</b> Front. Mol. Biosci., 9:825028 (2022)<br/>
     <b>Link:</b> <a href="https://doi.org/10.3389/fmolb.2022.825028">doi.org/10.3389/fmolb.2022.825028</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> Intracellular pH is a vital parameter that is maintained close to neutrality in all mammalian cells and tissues and acidic in most intracellular compartments. After presenting the main techniques used for intracellular an vesicular pH measurements we will briefly recall the main molecular mechanisms that affect and regulate intracellular pH. Following this we will discuss the large functional redundancy found in the transporters of H+ or acid-base equivalents. For this purpose, we will use mathematical modeling to simulate cellular response to persistent and/or transient acidification, in the presence of different transporters, single or in combination. We will also test the presence or absence of intracellular buffering. This latter section will highlight how modeling can yield fundamental insight into deep biological questions such as the utility of functional redundancy in natural selection.
   </div>
   <div style="flex:1; text-align:center;">
     <img src="figures/ph.png" width="300"/>
