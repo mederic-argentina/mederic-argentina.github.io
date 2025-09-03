@@ -151,7 +151,7 @@ title: "Research"
 ⁠, where U0 is the swimming velocity. These three physical quantities set the value of the Strouhal number in this regime. For larger amplitudes, we found that the drag coefficient is not constant but increases quadratically with the fin amplitude. As a consequence, the achieved locomotion velocity decreases, or the Strouhal number increases, as a function of the fin amplitude.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="figurestrhustDrag.png" width="300"/>
+    <img src="figures/trhustDrag.png" width="300"/>
   </div>
 </div>
 
