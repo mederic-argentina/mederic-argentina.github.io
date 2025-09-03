@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 # Research
-# Publications
+# Some Reccent Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
@@ -132,10 +132,10 @@ title: "Research"
     <b>Authors:</b> C. D’Angelo, L. Viennot, M. Argentina, F. Celestini, C. Raufaste<br/>
     <b>Reference:</b> Phys. Rev. E, 103:053005 (2021)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1103/PhysRevE.103.053005">doi.org/10.1103/PhysRevE.103.053005</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> We investigate the impact of composite objects. They consist of a soft layer on top of a rigid part with a hemispherical impacting end. The coefficient of restitution (𝑒) of such objects is studied systematically as a function of the mass ratio and of the nature of the materials. For rather elastic materials, the coefficient of restitution is a nonmonotonic function of the mass ratio and exhibits important variations. The dynamics of the impact can be characterized by several bounces depending on the ratios between the four timescales at play. These include the duration of contact of the rigid part with the substrate and the time for the elastic waves to travel back and forth in the soft layer. In that sense, describing these projectiles requires one to take into account both the Hertzian theory of contact and the elastic waves described by Saint-Venant's approach.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/impact.png" width="300"/>
   </div>
 </div>
 
@@ -147,10 +147,11 @@ title: "Research"
     <b>Authors:</b> F. Gibouin, C. Raufaste, Y. Bouret, M. Argentina<br/>
     <b>Reference:</b> Phys. Fluids, 30:091901 (2018)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1063/1.5041784">doi.org/10.1063/1.5041784</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> A robotic fish is used to test the validity of a simplification made in the context of fish locomotion. With this artificial aquatic swimmer, we verify that the momentum equation results from a simple balance between a thrust and a drag that can be treated independently in the small amplitude regime. The thrust produced by the flexible robot is proportional to A2f2, where A and f are the respective tail-beat amplitude and oscillation frequency, irrespective of whether or not f coincides with the resonant frequency of the fish. The drag is proportional to 
+⁠, where U0 is the swimming velocity. These three physical quantities set the value of the Strouhal number in this regime. For larger amplitudes, we found that the drag coefficient is not constant but increases quadratically with the fin amplitude. As a consequence, the achieved locomotion velocity decreases, or the Strouhal number increases, as a function of the fin amplitude.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figurestrhustDrag.png" width="300"/>
   </div>
 </div>
 
