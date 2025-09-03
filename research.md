@@ -42,10 +42,10 @@ title: "Research"
     <b>Authors:</b> S. Israilov, L. Fu, J. Sánchez-Rodríguez, F. Fusco, G. Allibert, C. Raufaste, M. Argentina<br/>
     <b>Reference:</b> PLOS ONE, 18(2):e0280071 (2023)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1371/journal.pone.0280071">doi.org/10.1371/journal.pone.0280071</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> (Machine learning is often cited as a new paradigm in control theory, but is also often viewed as empirical and less intuitive for students than classical model-based methods. This is particularly the case for reinforcement learning, an approach that does not require any mathematical model to drive a system inside an unknown environment. This lack of intuition can be an obstacle to design experiments and implement this approach. Reversely there is a need to gain experience and intuition from experiments. In this article, we propose a general framework to reproduce successful experiments and simulations based on the inverted pendulum, a classic problem often used as a benchmark to evaluate control strategies. Two algorithms (basic Q-Learning and Deep Q-Networks (DQN)) are introduced, both in experiments and in simulation with a virtual environment, to give a comprehensive understanding of the approach and discuss its implementation on real systems. In experiments, we show that learning over a few hours is enough to control the pendulum with high accuracy. Simulations provide insights about the effect of each physical parameter and tests the feasibility and robustness of the approach.)
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/plos.png" width="300"/>
   </div>
 </div>
 
@@ -53,11 +53,11 @@ title: "Research"
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
-    <b>Title:</b> X-ray particle tracking velocimetry in an overflowing foam<br/>
-    <b>Authors:</b> T. Lappan, D. Herting, M. Ziauddin, J. Stenzel, N. Shevchenko, S. Eckert, K. Eckert, S. Heitkam<br/>
+    <b>Title:</b> Three-dimensional liquid foam flow through a hopper resolved by fast X-ray microtomography<br/>
+    <b>Authors:</b> Florian Schott, Benjamin Dollet, Stéphane Santucci, Cyrille Claudet, Médéric Argentina, Christophe Raufaste, Rajmund Mokso<br/>
     <b>Reference:</b> Applied Sciences, 13(3):1765 (2023)<br/>
-    <b>Link:</b> (to be added)<br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Link:</b> <a href="[https://doi.org/10.1371/journal.pone.0280071](https://pubs.rsc.org/en/content/articlehtml/2023/sm/d2sm01299e)">doi.org/10.1371/journal.pone.0280071</a><br/><br/>
+    <b>Abstract:</b> (We probe the complex rheological behaviour of liquid foams flowing through a conical constriction. With fast X-ray tomographic microscopy we measure in situ the displacement and deformation of up to fifty thousand bubbles at any single time instance while varying systematically the foam liquid fraction, the bubble size and the flow direction – convergent vs. divergent. The large statistics and high spatio-temporal resolution allows to observe and quantify the deviations from a purely viscous flow. We indeed reveal an asymmetry between the convergent and divergent flows associated to the emergence of elastic stresses in the latter case, and enhanced as the liquid fraction is reduced. Such effect is related to the reorientation of the deformed bubbles flowing out of the constriction, from a prolate to an oblate shape in average, while they pass through the hopper waist.)
   </div>
   <div style="flex:1; text-align:center;">
     <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
