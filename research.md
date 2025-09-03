@@ -27,10 +27,10 @@ title: "Research"
     <b>Authors:</b> J. Sánchez-Rodríguez, C. Raufaste, M. Argentina<br/>
     <b>Reference:</b> Nature Communications, 14:5569 (2023)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1038/s41467-023-41368-6">doi.org/10.1038/s41467-023-41368-6</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> (Undulatory swimming is the predominant form of locomotion in aquatic vertebrates. A myriad of animals of different species and sizes oscillate their bodies to propel themselves in aquatic environments with swimming speed scaling as the product of the animal length by the oscillation frequency. Although frequency tuning is the primary means by which a swimmer selects its speed, there is no consensus on the mechanisms involved. In this article, we propose scaling laws for undulatory swimmers that relate oscillation frequency to length by taking into account both the biological characteristics of the muscles and the interaction of the moving swimmer with its environment. Results are supported by an extensive literature review including approximately 1200 individuals of different species, sizes and swimming environments. We highlight a crossover in size around 0.5–1 m. Below this value, the frequency can be tuned between 2–20 Hz due to biological constraints and the interplay between slow and fast muscles. Above this value, the fluid-swimmer interaction must be taken into account and the frequency is inversely proportional to the length of the animal. This approach predicts a maximum swimming speed around 5–10 m.s−1 for large swimmers, consistent with the threshold to prevent bubble cavitation.)
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/natCom.png" width="300"/>
   </div>
 </div>
 
