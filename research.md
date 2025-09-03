@@ -12,10 +12,10 @@ title: "Research"
     <b>Authors:</b> C. Karamaoun, H. Kumar, M. Argentina, D. Clamond, B. Mauroy<br/>
     <b>Reference:</b> Phys. Rev. Fluids, 9:L081101 (2024)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1103/PhysRevFluids.9.L081101">doi.org/10.1103/PhysRevFluids.9.L081101</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b> (The mucus on the bronchial wall forms a thin layer of non-Newtonian fluid, protecting the lungs by capturing inhaled pollutants. Due to the corrugation of its interface with air, this layer is subject to surface tension forces that affect its rheology. This physical system is analyzed using lubrication theory and three-dimensional simulations. We characterize the nonlinear behavior of the mucus and show that surface tension effects can displace overly thick mucus layers in airway bifurcations. This movement can disrupt the mucociliary clearance and break the homogeneity of the layer thickness.)
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/Karamaoun.png" width="300"/>
   </div>
 </div>
 
