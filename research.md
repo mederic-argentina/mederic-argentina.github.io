@@ -57,10 +57,10 @@ title: "Research"
     <b>Authors:</b> Florian Schott, Benjamin Dollet, Stéphane Santucci, Cyrille Claudet, Médéric Argentina, Christophe Raufaste, Rajmund Mokso<br/>
     <b>Reference:</b> Applied Sciences, 13(3):1765 (2023)<br/>
     <b>Link:</b> <a href="[https://doi.org/10.1371/journal.pone.0280071](https://pubs.rsc.org/en/content/articlehtml/2023/sm/d2sm01299e)">doi.org/10.1371/journal.pone.0280071</a><br/><br/>
-    <b>Abstract:</b> (We probe the complex rheological behaviour of liquid foams flowing through a conical constriction. With fast X-ray tomographic microscopy we measure in situ the displacement and deformation of up to fifty thousand bubbles at any single time instance while varying systematically the foam liquid fraction, the bubble size and the flow direction – convergent vs. divergent. The large statistics and high spatio-temporal resolution allows to observe and quantify the deviations from a purely viscous flow. We indeed reveal an asymmetry between the convergent and divergent flows associated to the emergence of elastic stresses in the latter case, and enhanced as the liquid fraction is reduced. Such effect is related to the reorientation of the deformed bubbles flowing out of the constriction, from a prolate to an oblate shape in average, while they pass through the hopper waist.)
+    <b>Abstract:</b> We probe the complex rheological behaviour of liquid foams flowing through a conical constriction. With fast X-ray tomographic microscopy we measure in situ the displacement and deformation of up to fifty thousand bubbles at any single time instance while varying systematically the foam liquid fraction, the bubble size and the flow direction – convergent vs. divergent. The large statistics and high spatio-temporal resolution allows to observe and quantify the deviations from a purely viscous flow. We indeed reveal an asymmetry between the convergent and divergent flows associated to the emergence of elastic stresses in the latter case, and enhanced as the liquid fraction is reduced. Such effect is related to the reorientation of the deformed bubbles flowing out of the constriction, from a prolate to an oblate shape in average, while they pass through the hopper waist.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/foam" width="300"/>
   </div>
 </div>
 
