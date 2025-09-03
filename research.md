@@ -60,7 +60,7 @@ title: "Research"
     <b>Abstract:</b> We probe the complex rheological behaviour of liquid foams flowing through a conical constriction. With fast X-ray tomographic microscopy we measure in situ the displacement and deformation of up to fifty thousand bubbles at any single time instance while varying systematically the foam liquid fraction, the bubble size and the flow direction – convergent vs. divergent. The large statistics and high spatio-temporal resolution allows to observe and quantify the deviations from a purely viscous flow. We indeed reveal an asymmetry between the convergent and divergent flows associated to the emergence of elastic stresses in the latter case, and enhanced as the liquid fraction is reduced. Such effect is related to the reorientation of the deformed bubbles flowing out of the constriction, from a prolate to an oblate shape in average, while they pass through the hopper waist.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="figures/foam" width="300"/>
+    <img src="figures/foam.png" width="300"/>
   </div>
 </div>
 
