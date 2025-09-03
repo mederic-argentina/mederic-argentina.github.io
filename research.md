@@ -105,7 +105,7 @@ title: "Research"
     <b>Abstract:</b> Muscles and tendons, actuators in robotics, and various sports implements are examples that exploit elasticity to accelerate objects. Tuning the mechanical properties of elastic elements connecting objects can greatly enhance the transfer of mechanical energy between the objects. Here, we study experimentally the throw of rigid projectiles by an actuator, which has a soft elastic element added to the distal end. We vary the thickness of the elastic layer and suggest a simple mass-spring chain model to find the properties of the elastic layer, which will maximize the energy transfer from the actuator to the projectile. The insertion of a soft layer, impedance matched to the ejection frequency of the projectile mass, can increase the throwing efficiency by over 400%. Finally, we identify that very thick and very soft compliant layers could potentially lead to high efficiency and flexibility simultaneously.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="figures/compliant" width="300"/>
+    <img src="figures/compliant.png" width="300"/>
   </div>
 </div>
 
@@ -117,10 +117,10 @@ title: "Research"
     <b>Authors:</b> J. Sánchez-Rodríguez, F. Celestini, C. Raufaste, M. Argentina<br/>
     <b>Reference:</b> Phys. Rev. Lett., 126:234501 (2021)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1103/PhysRevLett.126.234501">doi.org/10.1103/PhysRevLett.126.234501</a><br/><br/>
-    <b>Abstract:</b> (to be added)
+    <b>Abstract:</b>In this Letter, we propose a mechanism for driving bioinspired fish swimming locomotion based on proprioceptive sensing. Proprioception provides information about and representation of a body’s position, motion, and acceleration in addition to the usual five senses. We hypothesize that a feedback loop based on this “sixth” sense results in an instability, driving the locomotion. In order to test our assumptions, we use a biomimetic robot and compare the experimental results to a simple yet generic model with excellent agreement.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure" width="300"/>
+    <img src="figures/proprio.png" width="300"/>
   </div>
 </div>
 
