@@ -6,8 +6,7 @@ title: "Research"
 # Research
 # Recent Publications (Top 10)
 
-1. 
-<div style="display:flex; align-items:flex-start; margin-bottom:30px;">
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
 
   <div style="flex:3; padding-right:20px;">
     <b>Title:</b> Curvature-driven transport of thin Bingham fluid layers in airway bifurcations<br/>
@@ -19,14 +18,14 @@ title: "Research"
   </div>
 
   <div style="flex:1; text-align:center;">
-    <!-- image: placeholder, remplace à volonté -->
     <img src="https://via.placeholder.com/300x200?text=Figure+1" width="300"/>
   </div>
 
 </div>
 
-1. 
-<div style="display:flex; align-items:flex-start; margin-bottom:30px;">
+<hr/>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
 
   <div style="flex:3; padding-right:20px;">
     <b>Title:</b> Scaling the tail beat frequency and swimming speed in underwater undulatory swimming<br/>
@@ -43,20 +42,4 @@ title: "Research"
 
 </div>
 
-1. 
-<div style="display:flex; align-items:flex-start; margin-bottom:30px;">
-
-  <div style="flex:3; padding-right:20px;">
-    <b>Title:</b> Intracellular pH Control by Membrane Transport in Mammalian Cells. Insights Into the Selective Advantages of Functional Redundancy<br/>
-    <b>Authors:</b> D. Doyen, M. Poët, G. Jarretou, D. F. Pisani, M. Tauc, M. Cougnon, M. Argentina, Y. Bouret, L. Counillon<br/>
-    <b>Reference:</b> Frontiers in Molecular Biosciences, 9, 825028 (2022)<br/>
-    <b>Link:</b> <a href="https://doi.org/10.3389/fmolb.2022.825028">doi.org/10.3389/fmolb.2022.825028</a><br/><br/>
-    <b>Abstract:</b><br/>
-    Intracellular pH is a vital parameter that is maintained close to neutrality in all mammalian cells and tissues and acidic in most intracellular compartments. After presenting the main techniques used for intracellular and vesicular pH measurements we briefly recall the main molecular mechanisms that affect and regulate intracellular pH. Following this we discuss the large functional redundancy found in the transporters of H⁺ or acid–base equivalents. For this purpose, we use mathematical modeling to simulate the cellular response to persistent and/or transient acidification, in the presence of different transporters, single or in combination.
-  </div>
-
-  <div style="flex:1; text-align:center;">
-    <img src="https://via.placeholder.com/300x200?text=Figure+3" width="300"/>
-  </div>
-
-</div>
+<hr/>
