@@ -29,7 +29,7 @@ title: "Research"
     <b>Authors:</b> Christophe Brouzet, Christophe Raufaste, Médéric Argentina<br/>
     <b>Reference:</b> J. Fluid. Mech (2025) <br/>
         <b>Link:</b> <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101">doi.org/10.1103/PhysRevFluids.10.043101</a><br/><br/>
-    <b>Flapping-based propulsive systems rely on fluid-structure interactions to produce thrust.
+    <b>Abstract:</b> Flapping-based propulsive systems rely on fluid-structure interactions to produce thrust.
 At intermediate and high Reynolds numbers, vortex formation and organization in the
 wake of such systems are crucial for the generation of a propulsive force. In this work,
 we experimentally investigate the wake produced by a tethered robotic fish immersed in a
