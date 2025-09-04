@@ -11,8 +11,8 @@ title: "Research"
   <div style="flex:3; padding-right:20px;">
     <b>Title:</b> Optimum control strategies for maximum thrust production in underwater undulatory swimming<br/>
     <b>Authors:</b> Li Fu, Sardor Israilov, Jesús Sánchez-Rodríguez, Christophe Brouzet, Guillaume Allibert, Christophe Raufaste, Médéric Argentina<br/>
-    <b>Reference:</b> Phys. Rev. Fluids, 9:L081101 (2024)<br/>
-    <b>Link:</b> <a href="https://doi.org/10.1103/PhysRevFluids.9.L081101">doi.org/10.1103/PhysRevFluids.9.L081101</a><br/><br/>
+    <b>Reference:</b> Phys. Rev. Fluids, 10:(4) (2025) <br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1103/PhysRevFluids.9.L081101">doi.org/10.1103/PhysRevFluids.9.L08110](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101)1</a><br/><br/>
     <b>Abstract:</b> Fishes, cetaceans, and many other aquatic vertebrates undulate their bodies to propel themselves through water. Swimming requires an intricate interplay between sensing the environment, making decisions, controlling internal dynamics, and moving the body in interaction with the external medium. Within this sequence of actions initiating locomotion, biological and physical laws manifest complex and nonlinear effects, which do not prevent natural swimmers from demonstrating efficient movement. This raises two complementary questions: how to model this intricacy and how to abstract it for practical swimming. In the context of robotics, the second question is of paramount importance to building efficient artificial swimmers driven by digital signals and mechanics. In this study, we tackle these two questions by leveraging a biomimetic robotic swimmer as a platform for investigating optimal control strategies for thrust generation. Through a combination of machine learning techniques and intuitive models, we identify a control signal that maximizes thrust production. Optimum tail-beat frequency and amplitude result from the subtle interplay between the swimmer's internal dynamics and its interaction with the surrounding fluid. We then propose a practical implementation for autonomous robotic swimmers that requires no prior knowledge of systems or equations. Direct fluid-structure simulations confirm the effectiveness and reliability of the proposed approach. Hence, our findings bridge fluid dynamics, robotics, and biology, providing valuable insights into the physics of aquatic locomotion.
   </div>
   <div style="flex:1; text-align:center;">
@@ -20,6 +20,7 @@ title: "Research"
   </div>
 </div>
 
+<hr/>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
