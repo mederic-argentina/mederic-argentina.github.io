@@ -209,3 +209,19 @@ varies with this number and, thus, thrust production.
 
 <hr/>
 
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> ag analysis with a self-propelled flexible swimmer fish<br/>
+    <b>Authors:</b> David Gross, Yann Roux, Christophe Raufaste, Argentina Médéric<br/>
+    <b>Reference:</b> Phys. Rev. Fluids 6, 053101 (2021)<br/>
+    <b>Link:</b> <a href="https://doi.org/10.1063/1.5041784">doi.org/10.1063/1.5041784</a><br/><br/>
+    <b>Abstract:</b> Fish swim by undulating their body to ensure propulsion. In steady state, thrust is balanced by a total drag force, whose dominant terms depend on the Reynolds number and on the flow regime. If skin friction prevails on pressure drag in the laminar regime, and conversely in the turbulent regime, it is not clear how important is the contribution of the vortex-induced drag in both regimes. In this article, we tackle both flow regimes within the same numerical framework to address this question and the relevant scaling laws at play. In particular, we show in the turbulent regime that the combination of both the pressure and vortex-induced drags sets the Strouhal number between 0.2 and 0.4 following the thrust and drag balance, in very good agreement with natural swimmers. In the laminar regime, the vortex-induced drag can be neglected in most cases. If not, we rationalize the correction and show that our two-dimensional swimmer needs to account for a significant amplification of the drag force to match the biological data.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/trhustDrag.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
