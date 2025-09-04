@@ -212,7 +212,7 @@ varies with this number and, thus, thrust production.
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
-    <b>Title:</b> ag analysis with a self-propelled flexible swimmer fish<br/>
+    <b>Title:</b> Drag analysis with a self-propelled flexible swimmer fish<br/>
     <b>Authors:</b> David Gross, Yann Roux, Christophe Raufaste, Argentina Médéric<br/>
     <b>Reference:</b> Phys. Rev. Fluids 6, 053101 (2021)<br/>
     <b>Link:</b> <a href="https://doi.org/10.1063/1.5041784">doi.org/10.1103/PhysRevFluids.6.053101</a><br/><br/>
@@ -220,6 +220,23 @@ varies with this number and, thus, thrust production.
   </div>
   <div style="flex:1; text-align:center;">
     <img src="figures/drag.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Contact Layer as a Propelling Advantage in Throwing
+<br/>
+    <b>Authors:</b> F Celestini, J. Mathiesen, M. Argentina, C. Raufaste<br/>
+    <b>Reference:</b> Phys. Rev. Applied 14, 044026 (2020)<br/>
+    <b>Link:</b> <a href="https://doi.org/10.1063/1.5041784">doi.org/10.1103/PhysRevFluids.6.053101</a><br/><br/>
+    <b>Abstract:</b>The ability to throw objects is important to hominid evolution and has been central to many technological innovations in human history. The conditions for optimal throwing performance, however, are in general unknown. Here we present ejection experiments of projectiles composed of a rigid and a soft layer. The optimal performance is achieved when the soft layer of the projectiles matches the acceleration dynamics of the throwing engine. Compared with a fully rigid projectile, a bilayered projectile with a small soft elastic layer can achieve a more than 300% increase in translational kinetic energy. Our study emphasizes the importance of not only designing projectiles to optimize the stability in flight, the aerodynamic profile, and the spin, but also to carefully match the mechanical impedance of the projectiles and their thrower.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/contact.png" width="300"/>
   </div>
 </div>
 
