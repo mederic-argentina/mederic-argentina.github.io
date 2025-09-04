@@ -22,6 +22,42 @@ title: "Research"
 
 <hr/>
 
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Undulatory underwater swimming: Linking vortex dynamics, thrust, and wake structure with a biorobotic fish<br/>
+    <b>Authors:</b> Christophe Brouzet, Christophe Raufaste, Médéric Argentina<br/>
+    <b>Reference:</b> J. Fluid. Mech (2025) <br/>
+        <b>Link:</b> <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.043101">doi.org/10.1103/PhysRevFluids.10.043101</a><br/><br/>
+    <b>Flapping-based propulsive systems rely on fluid-structure interactions to produce thrust.
+At intermediate and high Reynolds numbers, vortex formation and organization in the
+wake of such systems are crucial for the generation of a propulsive force. In this work,
+we experimentally investigate the wake produced by a tethered robotic fish immersed in a
+water tunnel. By systematically varying the amplitude and frequency of the fish tail as well
+as the free-stream speed, we are able to observe and characterize diﬀerent vortex streets as
+a function of the Strouhal number. The produced wakes are three-dimensional and exhibit a
+classical V-shape, mainly with two oblique trains of vortex rings convecting outward. Using
+two-dimensional Particle Image Velocimetry (PIV) in the mid-span plane behind the fish and
+through extensive data processing of the velocity and vorticity fields, we demonstrate the
+strong couplings at place between vortex dynamics, thrust production and wake structure.
+We first measure the evolution of the vortex velocity with the Strouhal number, and model
+it using a momentum balance equation directly related to thrust production. We then focus
+on the wake structure, such as wake angle as well as vortex ring orientation, diameter and
+vorticity. The wake structure is modelled in a simple geometrical framework where the vortex
+ring velocity is composed of the free-stream speed and the ring self-advecting speed. This
+framework is tested and validated by our experimental measurements as well as literature data
+collapsing on master curves, highlighting a universal behavior dominated by the Strouhal
+number. This allows us to establish a comprehensive understanding of how the wake structure
+varies with this number and, thus, thrust production.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/fish.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
+
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
     <b>Title:</b> Curvature-driven transport of thin Bingham fluid layers in airway bifurcations<br/>
