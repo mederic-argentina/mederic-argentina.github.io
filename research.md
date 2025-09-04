@@ -51,7 +51,7 @@ number. This allows us to establish a comprehensive understanding of how the wak
 varies with this number and, thus, thrust production.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="figures/fish.png" width="300"/>
+    <img src="figures/wake.png" width="300"/>
   </div>
 </div>
 
