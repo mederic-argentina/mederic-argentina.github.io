@@ -328,3 +328,19 @@ To recover previous findings, an imposed traveling bending moment wave is then u
 
 <hr/>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Bubble dynamics inside an outgassing hydrogel confined in a Hele-Shaw cell.
+<br/>
+    <b>Authors:</b> Florence Haudin, Xavier Noblin, Yann Bouret, Médéric Argentina, Christophe Raufaste<br/>
+    <b>Reference:</b> Phys. Rev. E, 94:023109 (2016).<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1103/PhysRevE.94.023109]">[https://doi.org/10.1103/PhysRevE.94.023109]</a><br/><br/>
+    <b>Abstract:</b> We report an experimental study of bubble dynamics in a non-Newtonian fluid subjected to a pressure decrease. The fluid is a hydrogel, composed of water and a synthetic clay, prepared and sandwiched between two glass plates in a Hele-Shaw geometry. The rheological properties of the material can be tuned by the clay concentration. As the imposed pressure decreases, the gas initially dissolved in the hydrogel triggers bubble formation. Different stages of the process are observed: bubble nucleation, growth, interaction, and creation of domains by bubble contact or coalescence. Initially bubble behave independently. They are trapped and advected by the mean deformation of the hydrogel, and the bubble growth is mainly driven by the diffusion of the dissolved gas through the hydrogel and its outgassing at the reactive-advected hydrogel-bubble interface. In this regime, the rheology of the fluid does not play a significant role on the bubble growth. A model is proposed and gives a simple scaling that relates the bubble growth rate and the imposed pressure. Carbon dioxide is shown to be the gas at play, and the hydrogel is degassing at the millimeter scale as a water solution does at a smaller scale. Later, bubbles are not independent anymore. The growth rate decreases, and the morphology becomes more anisotropic as bubbles interact because they are separated by a distance smaller than the individual stress field extension. Our measurements show that the interaction distance scales with the bubbles' size.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/bubble.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
