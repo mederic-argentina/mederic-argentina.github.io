@@ -242,3 +242,21 @@ varies with this number and, thus, thrust production.
 
 <hr/>
 
+
+ 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> A minimal model of self-propelled locomotion
+<br/>
+    <b>Authors:</b> Jesús Sánchez-Rodríguez, Christophe Raufaste, Médéric Argentina<br/>
+    <b>Reference:</b> Journal of Fluids and Structures<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1063/1.5041784]">doi.org/10.1063/1.5041784</a><br/><br/>
+    <b>Abstract:</b>Fish locomotion is a complicated problem in the context of fluid–structure interaction and it is still not understood what is linked to biology and what is linked to mechanics. Measurements performed on natural fish and artificial systems reveal that swimming at high Reynolds number is found in a narrow range of Strouhal numbers - a dimensionless combination of the swimming velocity, tail beat amplitude and frequency. With a minimal model of aquatic locomotion, we investigate how this number depends on the numerous parameters at play. We show a strong correlation with the drag coefficient, while the effect of the other parameters can be neglected at the first-order approximation.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/model.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
