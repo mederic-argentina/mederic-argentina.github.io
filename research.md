@@ -390,7 +390,7 @@ To recover previous findings, an imposed traveling bending moment wave is then u
     <b>Abstract:</b> Swimming relies on linking internal neural dynamics to body mechanics and environmental hydrodynamics. To characterize this in an integrative setting we present a minimal theoretical framework that synthesizes the roles of passive body elasticity, hydrodynamics, muscular activation, and proprioceptive sensory feedback in inertial swimmers. Our findings quantitatively explain a range of classic experimental observations linking gait and speed in a range of swimming fish. Our calculations also yield a mechanism for how elastohydrodynamic resonances lead to optimal gait selection. Finally, we show that a self-organized propulsive gait can be achieved via a proprioceptive mechanism wherein local muscle activation is driven by shape change, without the need for a central pattern generator, suggestive of ways to engineer robotic swimmers.
   </div>
   <div style="flex:1; text-align:center;">
-    <img src="figures/pnas2015.png" width="300"/>
+    <img src="figures/mattia.png" width="300"/>
   </div>
 </div>
 
