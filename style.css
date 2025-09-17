@@ -39,7 +39,7 @@ nav img.logo {
 .hero {
   background: linear-gradient(90deg,rgba(48, 62, 78, 1) 0%, rgba(70, 151, 188, 1) 100%);
   color: white;
-  text-align: center;
+  text-align: relative;
   padding: 40px 20px; /* réduit par rapport aux 80px initiaux */
 }
 .hero h1 {
@@ -62,6 +62,18 @@ nav img.logo {
   background-color: #16a085;
 }
 
+
+.hero-logo {
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+  opacity: 0.8; /* discret */
+}
+
+.hero-logo img {
+  max-width: 115px; /* ≈ 3 cm */
+  height: auto;
+}
 /* Main content */
 .container {
   max-width: 900px;
