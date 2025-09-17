@@ -258,6 +258,8 @@ varies with this number and, thus, thrust production.
   </div>
 </div>
 
+<hr/>
+
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
     <b>Title:</b> Curvature-based, time delayed feedback as a means for self-propelled swimming
@@ -273,6 +275,8 @@ To recover previous findings, an imposed traveling bending moment wave is then u
   </div>
 </div>
 
+
+<hr/>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div style="flex:3; padding-right:20px;">
