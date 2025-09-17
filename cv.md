@@ -65,7 +65,3 @@ Director of the Graduate School SPECTRUM
 
 ---
 
-## Personal Information
-- Born on October 24, 1973  
-- French nationality  
-- Married, two children  
