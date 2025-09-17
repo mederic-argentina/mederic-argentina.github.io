@@ -344,3 +344,21 @@ To recover previous findings, an imposed traveling bending moment wave is then u
 
 <hr/>
 
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Solitary-like waves in a liquid foam microchannel.
+<br/>
+    <b>Authors:</b> Yann Bouret, Alexandre Cohen, Nathalie Fraysse, Médéric Argentina, Christophe Raufaste<br/>
+    <b>Reference:</b> Phys. Rev. Fluids,<br/> 1:043902 (2016).
+    <b>Link:</b> <a href="[https://doi.org/10.1103/PhysRevFluids.1.043902]">[https://doi.org/10.1103/PhysRevFluids.1.043902]</a><br/><br/>
+    <b>Abstract:</b> Plateau borders (PBs) are liquid microchannels located at the contact between three bubbles in liquid foams. They are stable, deformable, and can be thought of as quasi-one-dimensional model systems to study surface waves in fluid dynamics. We show that the burst of a bubble trapped in a PB produces local constrictions which travel along the liquid channel at constant velocity, without significant change in shape. These patterns are reminiscent of the depression solitary waves encountered in nonlinear systems. By coupling flow inertia to capillary stresses, we derive a simple model that admits solitonic solutions, which we characterized numerically and analytically in the limit of small deformation. These solutions capture most of the features observed experimentally.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/solitary.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
