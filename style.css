@@ -58,7 +58,7 @@ hero-logo {
 }
 
 .hero-logo img {
-  max-height: 38px;    /* ≈ 1 cm */
+  max-height: 76px;    /* ≈ 1 cm */
   width: auto;
   height: auto;
   display: inline-block;
