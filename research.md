@@ -312,3 +312,19 @@ To recover previous findings, an imposed traveling bending moment wave is then u
 
 <hr/>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> The fern cavitation catapult: mechanism and design principles.
+<br/>
+    <b>Authors:</b> C. Llorens, M. Argentina, N. Rojas, J. Westbrook, J. Dumais, X. Noblin<br/>
+    <b>Reference:</b> J. R. Soc. Interface, 13:20150930 (2016).<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1098/rsif.2015.0930]">[https://doi.org/10.1103/PhysRevE.97.062805](https://doi.org/10.1098/rsif.2015.0930)</a><br/><br/>
+    <b>Abstract:</b> Leptosporangiate ferns have evolved an ingenious cavitation catapult to disperse their spores. The mechanism relies almost entirely on the annulus, a row of 12–25 cells, which successively: (i) stores energy by evaporation of the cells’ content, (ii) triggers the catapult by internal cavitation, and (iii) controls the time scales of energy release to ensure efficient spore ejection. The confluence of these three biomechanical functions within the confines of a single structure suggests a level of sophistication that goes beyond most man-made devices where specific structures or parts rarely serve more than one function. Here, we study in detail the three phases of spore ejection in the sporangia of the fern Polypodium aureum. For each of these phases, we have written the governing equations and measured the key parameters. For the opening of the sporangium, we show that the structural design of the annulus is particularly well suited to inducing bending deformations in response to osmotic volume changes. Moreover, the measured parameters for the osmoelastic design lead to a near-optimal speed of spore ejection (approx. 10 m s–1). Our analysis of the trigger mechanism by cavitation points to a critical cavitation pressure of approximately −100 ± 14 bar, a value that matches the most negative pressures recorded in the xylem of plants. Finally, using high-speed imaging, we elucidated the physics leading to the sharp separation of time scales (30 versus 5000 µs) in the closing dynamics. Our results highlight the importance of the precise tuning of the parameters without which the function of the leptosporangium as a catapult would be severely compromised.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/dumais.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
