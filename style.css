@@ -78,3 +78,17 @@ footer {
   text-align: center;
   padding: 20px;
   background: #2c3e50;
+  color: #ffffff; /* texte en blanc */
+  margin-top: 40px;
+}
+
+footer a {
+  color: #ffffff;       /* liens en blanc */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  color: #1abc9c;       /* vert clair au survol */
+  text-decoration: underline;
+}
