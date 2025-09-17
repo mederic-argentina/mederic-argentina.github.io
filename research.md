@@ -263,13 +263,29 @@ varies with this number and, thus, thrust production.
     <b>Title:</b> Curvature-based, time delayed feedback as a means for self-propelled swimming
 <br/>
     <b>Authors:</b> David Gross Yann Roux, M.Argentina<br/>
-    <b>Reference:</b> Journal of Fluids and Structures, 97:103071 (2020).<br/>
+    <b>Reference:</b> Journal of Fluids and Structures, 86:124–134 (2019).<br/>
     <b>Link:</b> <a href="[https://doi.org/10.1063/1.5041784]">doi.org/10.1063/1.5041784</a><br/><br/>
     <b>Abstract:</b>The development of bio-inspired robotics has led to an increasing need to understand the strongly coupled fluid–structure and control problem presented by swimming. Usually, the mechanical forcing of muscles is modeled with an imposed distribution of bending moments along the swimmer’s body. A simple way to exploit this idea is to define a central pattern forcing for this active driving, but this approach is not completely satisfactory because locomotion results from the interaction of the organism and its surroundings. Gazzola et al. (2015) have proposed that a curvature-based feedback with a time delay can trigger self-propulsion for a swimmer without necessitating such a pre-defined forcing. In the present work, we implement this feedback within a numerical model. We represent the swimmer as a thin elastic beam using a finite element representation which is coupled to an unsteady boundary element method for the resolution of the fluid domain. The model is first benchmarked on a flexible foil in forced leading edge heave.
 To recover previous findings, an imposed traveling bending moment wave is then used to drive the swimmer which yields peaks in the mean forward velocity when the driving frequency corresponds to the natural frequencies of the elastic structure. Delayed, curvature-based feedback is then applied to the swimmer and produces peaks in the velocity for delays that differ from the natural periods, associated to its deformations modes. Finally, a simplified model is shown to qualitatively describe the origin of the peaks observed in the feedback swimmer.
   </div>
   <div style="flex:1; text-align:center;">
     <img src="figures/roux.png" width="300"/>
+  </div>
+</div>
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Study of the thrust–drag balance with a swimming robotic fish.
+<br/>
+    <b>Authors:</b> Florence Gibouin, Christophe Raufaste, Yann Bouret, Médéric Argentina<br/>
+    <b>Reference:</b> Physics of Fluids, 30(9):091901 (2018).<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1063/1.5043137]">https://doi.org/10.1063/1.5043137</a><br/><br/>
+    <b>Abstract:</b> A robotic fish is used to test the validity of a simplification made in the context of fish locomotion. With this artificial aquatic swimmer, we verify that the momentum equation results from a simple balance between a thrust and a drag that can be treated independently in the small amplitude regime. The thrust produced by the flexible robot is proportional to A^2f^2, where A and f are the respective tail-beat amplitude and oscillation frequency, irrespective of whether or not f coincides with the resonant frequency of the fish. The drag is proportional to 
+⁠rho U^2, where U is the swimming velocity. These three physical quantities set the value of the Strouhal number in this regime. For larger amplitudes, we found that the drag coefficient is not constant but increases quadratically with the fin amplitude. As a consequence, the achieved locomotion velocity decreases, or the Strouhal number increases, as a function of the fin amplitude.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/thrust.png" width="300"/>
   </div>
 </div>
 
