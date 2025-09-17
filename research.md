@@ -295,3 +295,20 @@ To recover previous findings, an imposed traveling bending moment wave is then u
 
 <hr/>
 
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Equilibrium and dynamics of strained islands.
+<br/>
+    <b>Authors:</b> Guido Schifani, Thomas Frisch, Médéric Argentina<br/>
+    <b>Reference:</b> Phys. Rev. E, 97:062805 (2018).<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1103/PhysRevE.97.062805]">https://doi.org/10.1103/PhysRevE.97.062805</a><br/><br/>
+    <b>Abstract:</b> We focus in this work on the effect of the surface energy anisotropy on an elastically strained semiconductor film and in particular on its role on the coarsening dynamics of elastically strained islands. To study the dynamics of a strained film, we establish a one-dimensional nonlinear and nonlocal partial differential equation which takes into account the elastic, capillary, wetting, and anisotropic effects. We first construct an approximate stationary solution of our model using a variational method and an appropriate ansatz. This stationary solution is used to compute the chemical potential dependence on the island height. In particular, we find that the surface energy anisotropy increases the convexity of the chemical potential and this is shown to have an effect on the driving force for the coarsening. Second, we study the coarsening dynamics of an islands pair by means of numerical simulations. We find that the presence of the surface energy anisotropy may increase or decrease the coarsening time of the system. We show that this phenomenon depends on the initial heights of island pairs. We thus highlight that the driving force for the coarsening is due to the variation of the chemical potential with respect to the islands height and that two different regimes are possible.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/guido.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
