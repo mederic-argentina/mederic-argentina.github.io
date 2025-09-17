@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 # Research
-# Some Reccent Publications
+# Some Recent Publications
 
 
 <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
