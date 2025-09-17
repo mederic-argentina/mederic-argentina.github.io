@@ -362,3 +362,21 @@ To recover previous findings, an imposed traveling bending moment wave is then u
 
 <hr/>
 
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Shape and coarsening dynamics of strained islands.
+<br/>
+    <b>Authors:</b> Guido Schifani, Thomas Frisch, Médéric Argentina, Jean-Noël Aqua<br/>
+    <b>Reference:</b> Phys. Rev. E, 94:042808 (2016).
+    <b>Link:</b> <a href="[https://doi.org/10.1103/PhysRevE.94.042808]">[https://doi.org/10.1103/PhysRevE.94.042808]</a><br/><br/>
+    <b>Abstract:</b> We investigate the formation and the coarsening dynamics of islands in a strained epitaxial semiconductor film. These islands are commonly observed in thin films undergoing a morphological instability due to the presence of the elastocapillary effect. We first describe both analytically and numerically the formation of an equilibrium island using a two-dimensional continuous model. We have found that these equilibrium island-like solutions have a maximum height ℎ0 and they sit on top of a flat wetting layer with a thickness ℎ𝑤. We then consider two islands, and we report that they undergo a noninterrupted coarsening that follows a two stage dynamics. The first stage may be depicted by a quasistatic dynamics, where the mass transfers are proportional to the chemical potential difference of the islands. It is associated with a time scale 𝑡𝑐 that is a function of the distance 𝑑 between the islands and leads to the shrinkage of the smallest island. Once its height becomes smaller than a minimal equilibrium height ℎ*
+0, its mass spreads over the entire system. Our results pave the way for a future analysis of coarsening of an assembly of islands.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/thomas.png" width="300"/>
+  </div>
+</div>
+
+<hr/>
+
