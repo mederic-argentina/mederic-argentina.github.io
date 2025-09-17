@@ -54,6 +54,7 @@ nav a:hover {
   text-align: right;   /* aligne le logo à droite */
   margin-top: 10px;    /* espace sous le texte */
   opacity: 0.8;        /* discret */
+  position: static;    /* réintègre le logo dans le flux normal */
 }
 
 .hero-logo img {
