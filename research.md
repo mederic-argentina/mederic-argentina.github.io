@@ -249,12 +249,27 @@ varies with this number and, thus, thrust production.
     <b>Title:</b> A minimal model of self-propelled locomotion
 <br/>
     <b>Authors:</b> Jesús Sánchez-Rodríguez, Christophe Raufaste, Médéric Argentina<br/>
-    <b>Reference:</b> Journal of Fluids and Structures<br/>
+    <b>Reference:</b> Journal of Fluids and Structures, 97:103071 (2020).<br/>
     <b>Link:</b> <a href="[https://doi.org/10.1063/1.5041784]">doi.org/10.1063/1.5041784</a><br/><br/>
     <b>Abstract:</b>Fish locomotion is a complicated problem in the context of fluid–structure interaction and it is still not understood what is linked to biology and what is linked to mechanics. Measurements performed on natural fish and artificial systems reveal that swimming at high Reynolds number is found in a narrow range of Strouhal numbers - a dimensionless combination of the swimming velocity, tail beat amplitude and frequency. With a minimal model of aquatic locomotion, we investigate how this number depends on the numerous parameters at play. We show a strong correlation with the drag coefficient, while the effect of the other parameters can be neglected at the first-order approximation.
   </div>
   <div style="flex:1; text-align:center;">
     <img src="figures/model.png" width="300"/>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <div style="flex:3; padding-right:20px;">
+    <b>Title:</b> Curvature-based, time delayed feedback as a means for self-propelled swimming
+<br/>
+    <b>Authors:</b> David Gross Yann Roux, M.Argentina<br/>
+    <b>Reference:</b> Journal of Fluids and Structures, 97:103071 (2020).<br/>
+    <b>Link:</b> <a href="[https://doi.org/10.1063/1.5041784]">doi.org/10.1063/1.5041784</a><br/><br/>
+    <b>Abstract:</b>The development of bio-inspired robotics has led to an increasing need to understand the strongly coupled fluid–structure and control problem presented by swimming. Usually, the mechanical forcing of muscles is modeled with an imposed distribution of bending moments along the swimmer’s body. A simple way to exploit this idea is to define a central pattern forcing for this active driving, but this approach is not completely satisfactory because locomotion results from the interaction of the organism and its surroundings. Gazzola et al. (2015) have proposed that a curvature-based feedback with a time delay can trigger self-propulsion for a swimmer without necessitating such a pre-defined forcing. In the present work, we implement this feedback within a numerical model. We represent the swimmer as a thin elastic beam using a finite element representation which is coupled to an unsteady boundary element method for the resolution of the fluid domain. The model is first benchmarked on a flexible foil in forced leading edge heave.
+To recover previous findings, an imposed traveling bending moment wave is then used to drive the swimmer which yields peaks in the mean forward velocity when the driving frequency corresponds to the natural frequencies of the elastic structure. Delayed, curvature-based feedback is then applied to the swimmer and produces peaks in the velocity for delays that differ from the natural periods, associated to its deformations modes. Finally, a simplified model is shown to qualitatively describe the origin of the peaks observed in the feedback swimmer.
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="figures/roux.png" width="300"/>
   </div>
 </div>
 
