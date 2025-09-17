@@ -1,4 +1,3 @@
-low
 ---
 layout: default
 title: "CV"
