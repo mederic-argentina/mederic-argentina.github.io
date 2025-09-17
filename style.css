@@ -71,8 +71,9 @@ nav img.logo {
 }
 
 .hero-logo img {
-  max-width: 115px; /* ≈ 3 cm */
-  height: 115px;
+  max-height: 38px; /* ≈ 3 cm */
+  height: auto;
+  width : auto;
 }
 /* Main content */
 .container {
