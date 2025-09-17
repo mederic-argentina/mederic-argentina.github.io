@@ -72,7 +72,7 @@ nav img.logo {
 
 .hero-logo img {
   max-width: 115px; /* ≈ 3 cm */
-  height: auto;
+  height: 115px;
 }
 /* Main content */
 .container {
