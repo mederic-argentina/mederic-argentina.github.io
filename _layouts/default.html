@@ -3,15 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/webpage/assets/css/style.css">
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
+  {% include hero.html %}
   {% include nav.html %}
 
-  <main>
+  <main class="container">
     {{ content }}
   </main>
 
+  <footer>
+    <p>© 2025 Médéric Argentina | Powered by GitHub Pages</p>
+  </footer>
 </body>
 </html>
