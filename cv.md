@@ -1,4 +1,4 @@
----
+low---
 layout: default
 title: "CV"
 ---
@@ -22,7 +22,7 @@ Director of the Graduate School SPECTRUM
 - **2017–2019** — Deputy Director, Institut de Physique de Nice  
 - **2016–2019** — Co-leader, Academy of Complex Systems, Université Côte d’Azur  
 - **2014–present** — Full Professor, Université Côte d’Azur  
-- **2013–2018** — Junior Member, Institut Universitaire de France  
+- **2013–2018** — Junior Fellow, Institut Universitaire de France  
 - **2005–2014** — Associate Professor (Maître de conférences), Université Nice Sophia Antipolis  
 - **2004–2005** — Associate Professor, Université Paris 7 Denis Diderot  
 - **2003–2004** — Postdoctoral Researcher, Harvard University, USA  
