@@ -16,8 +16,9 @@ Each entry includes a link to the official article (DOI or journal page) when av
 
 1. **Christophe Brouzet, Christophe Raufaste, Médéric Argentina**
    *Undulatory underwater swimming: Linking vortex dynamics, thrust, and wake structure with a biorobotic fish*
-   [https://doi.org/10.1017/jfm.2025.10392]
    J. Fluid Mechanics 105, 153 2025).
+   [https://doi.org/10.1017/jfm.2025.10392](https://doi.org/10.1017/jfm.2025.10392)
+   
    
 1. **Cyril Karamaoun, Haribalan Kumar, Médéric Argentina, Didier Clamond, Benjamin Mauroy**  
    *Curvature-driven transport of thin Bingham fluid layers in airway bifurcations.*  
