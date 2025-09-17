@@ -28,7 +28,7 @@ nav a:hover {
 .hero {
   background: linear-gradient(90deg,rgba(48, 62, 78, 1) 0%, rgba(70, 151, 188, 1) 100%);
   color: white;
-  text-align: relative;
+  text-align: center;
   padding: 40px 20px; /* réduit par rapport aux 80px initiaux */
 }
 .hero h1 {
@@ -50,17 +50,18 @@ nav a:hover {
 .hero .btn:hover {
   background-color: #16a085;
 }
-.hero-logo {
-  text-align: right;   /* aligne le logo à droite */
-  margin-top: 10px;    /* espace sous le texte */
+hero-logo {
+  display: block;      /* reste dans le flux */
+  text-align: right;   /* aligne le contenu à droite */
+  margin-top: 10px;    /* petit espace sous le texte */
   opacity: 0.8;        /* discret */
-  position: static;    /* réintègre le logo dans le flux normal */
 }
 
 .hero-logo img {
   max-height: 38px;    /* ≈ 1 cm */
-  height: auto;
   width: auto;
+  height: auto;
+  display: inline-block;
 }
 /* Main content */
 .container {
