@@ -34,6 +34,7 @@ Director of the Graduate School SPECTRUM
 ---
 
 ## Research Grants and Projects
+- 2026 - Principal Investigator, INRIA Quadrant projet: Undulaw
 - 2021 — Principal Investigator, ANR project IJET  
 - 2020 — Member, ANR project DrainFlow  
 - 2020 — HYBRID project, funded by IDEX UCA  
